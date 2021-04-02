@@ -1,5 +1,5 @@
 # Chess
-Chess game made with SFML
+Chess game made with SFML, C++, and C.
 
 # Gameplay : 
 With left click you take the figure and with rigth click you place it.\
